@@ -1,7 +1,6 @@
 # face detection + servo control
 ### Note
-I didn't manage to get RabbitMQ working unfortunately. It is already installed on the Raspberry PI (although an older version due to some dependency issues).
-
+I didn't manage to get RabbitMQ working unfortunately. It is already installed on the Raspberry Pi (although an older version due to some dependency issues). The code and some info (Pinout Diagram) can be found on the Desktop of the Pi.
 ### Info
 * `face_detection_arduino.ipynb` contains the face detection + arduino serial communication code in Python. Packages needed:
   * OpenCV
